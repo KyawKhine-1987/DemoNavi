@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="aFragment">Account Fragment</string>
+    <string name="sFragment">Settings Fragment</string>
+    <string name="settings">Go To Settings</string>
+    <string name="account">Go To Account</string>
+    <string name="n">Name</string>
+    <string name="next">Next</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="getName">Get Name From Account</string>
+</resources>
